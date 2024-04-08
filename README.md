@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shiroi-Max
 - 👀 I’m interested in learning new programming languages 
-- 🌱 I’m currently working in android development.
+- 🌱 I’m currently working in software design.
